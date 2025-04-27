@@ -23,7 +23,23 @@ This project presents an interactive dashboard allowing users to explore how eco
 ## 📦 Installation
 
 1. Clone the repository:
-
-   ```bash
    git clone https://github.com/yourusername/in-search-for-happiness.git
    cd in-search-for-happiness
+
+2. Install the required packages:
+   pip install -r requirements.txt
+
+3. Run the application:
+   streamlit run main.py
+
+## 📁 Dataset
+The dataset 004 happy.csv includes metrics such as GDP per capita, Happiness Score, and Generosity for various countries.
+
+## 📸 Screenshots
+Include screenshots of the application here.
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 🙋‍♂️ Author
+Piotr Dziwisz
