@@ -56,7 +56,7 @@ Sample data row:​
 ![GDP and Happiness](screenshots/Happiness_screen3.png)
 
 ## 📄 License
-This project is licensed under the MIT License.
+his project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙋‍♂️ Author
 
