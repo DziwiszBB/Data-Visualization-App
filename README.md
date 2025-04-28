@@ -23,7 +23,7 @@ This project presents an interactive dashboard allowing users to explore how eco
 ## 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/in-search-for-happiness.git
+   git clone https://github.com/DziwiszBB/Data-Visualization-App.git
    cd in-search-for-happiness
 
 2. Install the required packages:
