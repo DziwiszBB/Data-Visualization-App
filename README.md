@@ -37,7 +37,9 @@ The dataset 004 happy.csv includes metrics such as GDP per capita, Happiness Sco
 
 ## 📸 Screenshots
 ![Happiness and Generostiy](screenshots/Happiness_screen1.png)
+
 ![GDP and Generosity](screenshots/Happiness_screen2.png)
+
 ![GDP and Happiness](screenshots/Happiness_screen3.png)
 
 ## 📄 License
