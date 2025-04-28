@@ -36,7 +36,9 @@ This project presents an interactive dashboard allowing users to explore how eco
 The dataset 004 happy.csv includes metrics such as GDP per capita, Happiness Score, and Generosity for various countries.
 
 ## 📸 Screenshots
-Include screenshots of the application here.
+![Happiness and Generostiy](screenshots/Happiness_screen1.png)
+![GDP and Generosity](screenshots/Happiness_screen2.png)
+![GDP and Happiness](screenshots/Happiness_screen3.png)
 
 ## 📄 License
 This project is licensed under the MIT License.
