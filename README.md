@@ -42,7 +42,7 @@ File `004 happy.csv` contains the following columns:
 - `Happiness Score`: A measure of the average happiness level of the country's population, typically on a scale from 0 to 10.
 - `Generosity`: A metric indicating the generosity of the population, often based on charitable donations and helping behavior.
 
-Sample data row:​:
+Sample data row:​
 
 | Country | GDP per capita | Happiness Score | Generosity |
 |---------|----------------|-----------------|------------|
